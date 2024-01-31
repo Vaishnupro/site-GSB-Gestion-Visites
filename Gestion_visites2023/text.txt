@@ -1,0 +1,25 @@
+client
+  -index.php
+
+config
+    -commandes.php
+    -connexion.php
+    -GestionVisites.2023.sql
+
+images
+-syringe.png
+
+
+visiteur
+ -afficher.php
+ -destroy.php
+ -editer.php
+ -index.php
+ -supprimer.php
+
+
+code.php
+index.php
+inscription.php
+login.php
+rapport.php
